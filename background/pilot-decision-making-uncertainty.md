@@ -189,10 +189,3 @@ The decision to continue or knock it off is a policy over this belief state, wit
 
 5. **Flight test is the extremum**: everything above applies, amplified. Test operations make uncertainty explicit, quantitative, and the center of the mission.
 
----
-
-## Related Work
-
-- [`aviation-weather-mdp`](../aviation-weather-mdp/) — Python implementation of an MDP for aviation weather decisions (value iteration, POMDP extension)
-- [`(C) Ch7 MDP Breakdown`](./(C)%20Ch7%20MDP%20Breakdown%20—%20Decision%20Making%20Under%20Uncertainty.md) — chapter-level notes on the MDP formalism
-
