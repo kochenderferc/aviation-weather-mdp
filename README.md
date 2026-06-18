@@ -2,13 +2,13 @@
 
 Can we find the mathematically optimal policy for a pilot deciding whether to continue a flight or divert when weather deteriorates?
 
-This project answers that question using a **Markov Decision Process (MDP)** solved with **value iteration** — a core algorithm in sequential decision making under uncertainty.
+This project answers that question using a **Markov Decision Process (MDP)** solved with **value iteration**: a core algorithm in sequential decision making under uncertainty.
 
 ---
 
 ## The Problem
 
-A pilot is flying from Phoenix (KPHX) to San Diego (KSAN) via two intermediate waypoints. At each waypoint, the pilot observes current weather conditions — **good**, **marginal**, or **bad** — and must decide:
+A pilot is flying from Phoenix (KPHX) to San Diego (KSAN) via two intermediate waypoints. At each waypoint, the pilot observes current weather conditions (**good**, **marginal**, or **bad**) and must decide:
 
 - **Continue** to the next waypoint, or
 - **Divert** to the nearest alternate airport
