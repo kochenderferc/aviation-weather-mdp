@@ -2,7 +2,7 @@
 
 Can we find the mathematically optimal policy for a pilot deciding whether to continue a flight or divert when weather deteriorates?
 
-This project answers that question using a **Markov Decision Process (MDP)** solved with **value iteration**: a core algorithm in sequential decision making under uncertainty.
+This project answers that question using a **Markov Decision Process (MDP)** solved with **value iteration**: a core algorithm in sequential decision making under uncertainty. See (my notes on pilot decision making)[background/pilot-decision-making-uncertainty.md] for some context.
 
 ---
 
